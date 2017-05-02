@@ -1,15 +1,15 @@
-<?php namespace LaravelArdent\Ardent;
+<?php namespace LaravelBook\Ardent;
 
 /**
  * Used when validation fails. Contains the invalid model for easy analysis.
  * Class InvalidModelException
- * @package LaravelArdent\Ardent
+ * @package LaravelBook\Ardent
  */
 class InvalidModelException extends \RuntimeException {
 
 	/**
 	 * The invalid model.
-	 * @var \LaravelArdent\Ardent\Ardent
+	 * @var \LaravelBook\Ardent\Ardent
 	 */
 	protected $model;
 
