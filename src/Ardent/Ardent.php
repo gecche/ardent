@@ -1,13 +1,4 @@
-<?php namespace LaravelBook\Ardent;
-
-/*
- * This file is part of the Ardent package.
- *
- * (c) Max Ehsan <contact@laravelbook.com>
- *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
- */
+<?php namespace LaravelArdent\Ardent;
 
 use Closure;
 use Illuminate\Container\Container;

@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "LaravelBook\\Ardent\\": "src/"
+            "LaravelArdent\\": "src/"
         }
     },
     "minimum-stability": "dev"
